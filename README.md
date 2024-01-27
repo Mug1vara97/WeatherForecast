@@ -41,5 +41,5 @@
 
 ### Пример вывода:
 
-![one](https://discord.com/channels/1060281305830539295/1060281305830539298/1200814421803536394)
-![two](https://discord.com/channels/1060281305830539295/1060281305830539298/1200814446134693908)
+![Alt text](image.png)
+![Alt text](image-1.png)
